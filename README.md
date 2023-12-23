@@ -1,4 +1,5 @@
 # Django REST Framework with Next.js Authentication Example
+<img src="https://nextjsreactjs.com/wp-content/uploads/2023/11/Untitled-design-61-990x557.jpg" alt="Django REST Framework with Next.js Authentication Example" width="100%">
 
 This project demonstrates how to set up a Django REST Framework (DRF) backend with Next.js for the frontend. Authentication is implemented using dj-rest-auth and Django Allauth, with user information stored in HttpOnly cookies.
 
